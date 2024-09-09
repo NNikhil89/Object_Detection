@@ -1,3 +1,3 @@
-Object Detection using pretrained EfficientNet model
+# Object Detection using pretrained EfficientNet model
 
 Cardiac disease is a leading cause of mortality in dogs. The automatic detection of cardiomegaly is crucial for enhancing the accuracy of clinical diagnoses. Although deep learning methods have shown promise in improving the accuracy of cardiomegaly classification, their application in clinical settings remains limited due to challenges in correlating predicted outcomes with input radiographs. To address these challenges, we create a CNN model incorporating an orthogonal layer to align the traditional VHS metric used in clinical practice with deep learning models. Comprehensive experimental results show that our proposed model achieves state-of-the-art performance.
